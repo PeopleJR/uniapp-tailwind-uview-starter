@@ -3,6 +3,7 @@
     class="divider-box"
     :style="{ height: height, width: width, backgroundColor: bgColor }"
   ></view>
+  <view class="">hah </view>
 </template>
 
 <script>
