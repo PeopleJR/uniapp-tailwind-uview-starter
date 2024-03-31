@@ -5,6 +5,9 @@
   ></view>
   <view class="">hah </view>
   <view>啊哈哈哈</view>
+  <view class="">
+  	kewu a 
+  </view>
 </template>
 
 <script>

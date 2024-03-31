@@ -9,6 +9,9 @@
         :current="current"
         @change="tabChange"
       ></u-tabs>
+	  <view class="de">
+	  	
+	  </view>
     </view>
     <divider v-show="showTab" />
     <view class="tab-list-content">
