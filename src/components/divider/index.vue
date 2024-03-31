@@ -4,6 +4,7 @@
     :style="{ height: height, width: width, backgroundColor: bgColor }"
   ></view>
   <view class="">hah </view>
+  <view>啊哈哈哈</view>
 </template>
 
 <script>
