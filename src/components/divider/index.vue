@@ -8,6 +8,7 @@
   <view class="">
   	kewu a 
   </view>
+  <view>de </view>
 </template>
 
 <script>

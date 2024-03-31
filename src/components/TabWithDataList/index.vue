@@ -10,7 +10,7 @@
         @change="tabChange"
       ></u-tabs>
 	  <view class="de">
-	  	
+	  	大撒大撒
 	  </view>
     </view>
     <divider v-show="showTab" />
